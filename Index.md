@@ -6,3 +6,6 @@
  * one_way_linked_list.c
  	 * oneway linked list
  	 * 單向串列
+ * string_array.c
+ 	 * array of string
+	 * 字串陣列
