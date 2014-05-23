@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct _INT_LINK {
+typedef struct STRUCT_INT_LINK {
 	int value;
-	struct _INT_LINK * next;
+	struct STRUCT_INT_LINK * next;
 } INT_LINK;
 
 int main () {
