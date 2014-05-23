@@ -9,3 +9,6 @@
  * string_array.c
  	 * array of string
 	 * 字串陣列
+ * stack_(linked_list).c
+ 	 * Stack (implemented with linked list)
+	 * 堆疊（使用連結串列實作）
