@@ -1,3 +1,12 @@
+## C 101 -- 新手入門
+
+* helloworld.c
+	* Hello, World!
+	* C語言長這樣，你的第一個程式
+* multiplication_table.c
+ 	* Multiplication Table
+	* 九九乘法表
+
 ## Pointer -- 指標
 
 * function_pointer.c
@@ -15,6 +24,3 @@
 * stack_(linked_list)2.c
 	* Stack (implemented with two-way linked list)
 	* 堆疊（使用雙向連結串列實作）
-* multiplication_table.c
- 	* Multiplication Table
-	* 九九乘法表
