@@ -27,3 +27,8 @@
 * stack_(linked_list)2.c
 	* Stack (implemented with two-way linked list)
 	* 堆疊（使用雙向連結串列實作）
+
+## Code For Fun -- 寫好玩的
+* hello_world_(genetic_algorithm).c
+	* Genetic Algorithm to generate 'Hello World!'
+	* 使用基因遺傳演算法產生 'Hello World!'
